@@ -1,4 +1,4 @@
-package com.lcc.entity;
+﻿package com.lcc.entity;
 
 /**
  * 图书实体
@@ -10,6 +10,8 @@ public class Book {
     private String name;// 图书名称
 
     private int number;// 馆藏数量
+
+    private int test;// 
 
     public Book() {
     }
